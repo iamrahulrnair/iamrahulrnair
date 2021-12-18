@@ -13,11 +13,11 @@
   
   > ***Reach* out to me**
   
-  <a href="https://www.linkedin.com/in/iamrahulrnair/"><img src="https://img.icons8.com/stickers/100/000000/linkedin.png"/></a>
-  <a href="https://m.facebook.com/rahul.rnair.9212"><img src="https://img.icons8.com/stickers/100/000000/facebook.png"/></a>
-  <a href="https://www.instagram.com/rahlrnair/"><img src="https://img.icons8.com/stickers/100/000000/instagram-new--v1.png"/></a>
-  <a href="https://medium.com/@iamrahulrnair"><img src="https://img.icons8.com/stickers/100/000000/medium-logo.png"/></a>
-  <a href="https://discord/iamrahulrnair"><img src="https://img.icons8.com/stickers/100/000000/discord.png"/></a>
+  <a href="https://www.instagram.com/rahlrnair/"><img height="50px" src="https://img.icons8.com/stickers/100/000000/instagram-new--v1.png"/></a>
+  <a href="https://m.facebook.com/rahul.rnair.9212"><img height="60px" src="https://img.icons8.com/stickers/100/000000/facebook.png"/></a>
+  <a href="https://www.linkedin.com/in/iamrahulrnair/"><img  height="75px" src="https://img.icons8.com/stickers/100/000000/linkedin.png"/></a>
+  <a href="https://medium.com/@iamrahulrnair"><img height="60px" src="https://img.icons8.com/stickers/100/000000/medium-logo.png"/></a>
+  <a href="https://discord/iamrahulrnair"><img height="50px" src="https://img.icons8.com/stickers/100/000000/discord.png"/></a>
   
   
 </div>
